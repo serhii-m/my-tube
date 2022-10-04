@@ -2,7 +2,7 @@
 
 ### This is a straightforward video viewer app that is a YouTube clone.
 
-## [Live DEMO](https://my-tube-chi.vercel.app/)
+## [Live DEMO](https://my-tube-i.vercel.app/)
 
 ![](https://github.com/serhii-m/my-tube/raw/main/public/tablet.png)
 ![](https://github.com/serhii-m/my-tube/raw/main/public/mobile.png)
