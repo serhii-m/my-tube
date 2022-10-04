@@ -8,6 +8,7 @@ const RenderThemeToggle = () => {
   if (currentTheme === 'dark') {
     return (
       <button
+        className="mr-3"
         aria-label="set light theme"
         onClick={() => setTheme('light')}
         type="button"
@@ -30,6 +31,7 @@ const RenderThemeToggle = () => {
 
   return (
     <button
+      className="mr-3"
       aria-label="set dark theme"
       onClick={() => setTheme('dark')}
       type="button"
